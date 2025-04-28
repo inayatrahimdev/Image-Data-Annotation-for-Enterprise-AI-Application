@@ -190,8 +190,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For enterprise implementation support or collaboration opportunities:
 
-- **Email**: inayatrahimdev@gmail.com
-- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/inayatrahim/)
+- **Email**: inayatrahim006@gmail.com
+- **LinkedIn**: [Connect on LinkedIn](https://www.linkedin.com/in/inayat-rahim-b0655b29b/)
 - **Twitter**: [@inayatrahimdev](https://twitter.com/inayatrahimdev)
 
 ---
